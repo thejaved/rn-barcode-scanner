@@ -1,1 +1,0 @@
-# rn-barcode-scanner
