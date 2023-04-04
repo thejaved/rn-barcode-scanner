@@ -1,1 +1,1 @@
-# rn-barcode-scanner
+# React Native Barcode Scanner
