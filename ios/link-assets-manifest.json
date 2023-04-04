@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "app/assets/fonts/Outfit-Bold.ttf",
+      "sha1": "dff38f4c216b9145d9dd284a78fce52e057e2194"
+    },
+    {
+      "path": "app/assets/fonts/Outfit-Medium.ttf",
+      "sha1": "86e6867ae0aba1eb8aa4bda25d2fe0a5ca02bee8"
+    },
+    {
+      "path": "app/assets/fonts/Outfit-Regular.ttf",
+      "sha1": "bcb85df11636ccfe003e92f12515c29c3be865f5"
+    }
+  ]
+}
