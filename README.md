@@ -26,7 +26,7 @@ For more detailed instructions, please refer to the documentation in the `docs` 
 
 ## Support
 
-If you encounter any issues or have questions about using the barcode scanner feature, please open an issue in this repository or contact our support team at support@barcodescanner.com.
+If you encounter any issues or have questions about using the barcode scanner feature, please open an issue in this repository or contact our support team at support@indplatform.com.
 
 ## Contributing
 
