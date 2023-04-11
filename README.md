@@ -7,11 +7,11 @@ The barcode scanner feature allows users to scan barcodes using their device's c
 ## Features
 Barcode scanning: The feature provides reliable and fast barcode scanning, with support for a range of barcode formats, including QR codes, EAN/UPC codes, Code 39, Code 128, and more.
 
-**Customizable settings**: The feature can be easily customized to meet specific requirements, such as enabling/disabling certain barcode formats, adjusting scanning speed, or specifying the camera resolution.
+-Customizable settings: The feature can be easily customized to meet specific requirements, such as enabling/disabling certain barcode formats, adjusting scanning speed, or specifying the camera resolution.
 
-**Real-time feedback**: The feature provides real-time feedback to the user during scanning, such as showing a progress bar or highlighting the barcode being scanned.
+-Real-time feedback: The feature provides real-time feedback to the user during scanning, such as showing a progress bar or highlighting the barcode being scanned.
 
-**Compatibility**: The feature is compatible with a wide range of devices and operating systems, including iOS, Android, and web applications.
+-Compatibility: The feature is compatible with a wide range of devices and operating systems, including iOS, Android, and web applications.
 
 ## Getting Started
 To use the barcode scanner feature in your application, you'll need to follow these steps:
