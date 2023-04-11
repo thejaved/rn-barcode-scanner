@@ -1,0 +1,1 @@
+# Barcode scanner features
