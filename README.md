@@ -23,7 +23,7 @@ Integrate the barcode scanner feature into your application, using the code exam
 For more detailed instructions, please refer to the documentation in the docs directory.
 
 **Support**
-If you encounter any issues or have questions about using the barcode scanner feature, please open an issue in this repository or contact our support team at support@barcodescanner.com.
+If you encounter any issues or have questions about using the barcode scanner feature, please open an issue in this repository or contact our support team at support@indplatform.com.
 
 **Contributing**
 We welcome contributions from the community! If you'd like to contribute to this repository, please fork the repository and submit a pull request with your changes.
